@@ -8,7 +8,7 @@ The goal of this project (made with `processing 3`) is to construct and visualiz
 
 * To start the application, run `arc_diagrams` file on `processing 3`.
 
-The user may then start building the graph he wisges and see the according real-time update of the arc diagram.
+The user may then start building the graph he wishes and see the according real-time update of the arc diagram.
 
 * Every left click mouse on the graph drawing area allows to add a node to the graph.
 * Adding arcs can be done by selecting two existing nodes (it is also possible to deselect a selected node by clicking on it).

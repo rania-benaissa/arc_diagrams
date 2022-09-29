@@ -8,8 +8,6 @@ The goal of this project (made with `processing 3`) is to construct and visualiz
 
 * To start the application, run `arc_diagrams` file on `processing 3`.
 
-<img src="/images/bowling1.png" width=50% height=50%>
-
 The user may then start building the graph he wisges and see the according real-time update of the arc diagram.
 
 * Every left click mouse on the graph drawing area allows to add a node to the graph.
@@ -20,4 +18,4 @@ The user may then start building the graph he wisges and see the according real-
 * The arc diagram drawn in `blue` is the current arc diagram (the diagram that represents the current graph).
 * Arc diagrams drawn in `purple` show previous changes (the history of the last two arc diagrams).
 
-<img src="/images/bowling1.png" width=50% height=50%>
+<img src="/exemple.png">
